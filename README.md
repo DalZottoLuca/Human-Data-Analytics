@@ -1,5 +1,5 @@
 # Human-Data-Analytics
-Human Data Analytics Course
+Human Data Analytics Course - Data Science Master Degree - Unipd
 
 The capacity to recognize human activities has
 become increasingly important in last years and is going to
